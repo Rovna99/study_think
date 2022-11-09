@@ -8,7 +8,15 @@
 - 밖의 study_think의 README.md의 글을 없애고 이 리드미를 거기 입력하시면 됩니다!
 - 브랜치를 새로 만드시고, 이번 주차 프로그램들을 전부 옮겨주세요!
 
-``` 예시) git checkout -b Rovna99-1week``` 후, 프로그램을 옮기고 커밋 후, pull request 작성
+### 순서
+
+1. ```git checkout -b {깃허브이름}-1week``` 를 통해 브랜치를 새로 생성합니다.
+2. `utcima.jpeg`와 `README.md`를 삭제합니다.
+3. 이번 주차 파일을 fork한 스터디 저장소 폴더에 모두 복사+붙여넣기 해줍니다.
+4. `Load Gradlew Project`를 클릭해 빌드해줍니다.
+5. 기존 `README.md`를 삭제하고, `READMEmain.md`의 문항을 작성한 후 `README.md`로 이름을 바꿔줍니다.
+6. 빌드가 완료되면, 새로 만든 브랜치에 커밋-푸시 해줍니다.
+7. 깃허브로 돌아와서 Pull request를 작성합니다.
 
 ---
 
