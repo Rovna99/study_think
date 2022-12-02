@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bridge.model.domain.BridgeResultTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-22T08:15:40" hostname="eomsuhyeog-ui-MacBookPro.local" time="0.012">
+  <properties/>
+  <testcase name="init 확인" classname="bridge.model.domain.BridgeResultTest" time="0.01"/>
+  <testcase name="failedRound 값 변경 확인" classname="bridge.model.domain.BridgeResultTest" time="0.001"/>
+  <testcase name="failedGame 값 변경 확인" classname="bridge.model.domain.BridgeResultTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
